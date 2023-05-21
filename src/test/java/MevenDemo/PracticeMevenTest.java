@@ -8,6 +8,9 @@ public class PracticeMevenTest {
 	public void practice()
 	{
 		System.out.println("Hello AM GOOD");
+		
+		System.out.println("GOOD");
+		
 	}
 
 }
