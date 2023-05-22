@@ -8,6 +8,8 @@ public class Sample {
 		public void SampleDemo()
 		{
 			System.out.println("Sample Push");
+			
+			System.out.println("Good Boy");
 		}
 	
 
