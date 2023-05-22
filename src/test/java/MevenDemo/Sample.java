@@ -9,7 +9,10 @@ public class Sample {
 		{
 			System.out.println("Sample Push");
 			
+
 			System.out.println("LOL Maga");
+
+			System.out.println("Good Boy");
 			
 		}
 	

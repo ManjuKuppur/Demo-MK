@@ -2,12 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2023-05-22T16:03:17 IST" name="Default suite" finished-at="2023-05-22T16:03:17 IST" duration-ms="101">
+=======
+  <suite started-at="2023-05-22T16:24:25 IST" name="Default suite" finished-at="2023-05-22T16:24:26 IST" duration-ms="73">
+>>>>>>> branch 'master' of https://github.com/ManjuKuppur/Demo-MK.git
     <groups>
     </groups>
+<<<<<<< HEAD
     <test started-at="2023-05-22T16:03:17 IST" name="Default test" finished-at="2023-05-22T16:03:17 IST" duration-ms="101">
+=======
+    <test started-at="2023-05-22T16:24:25 IST" name="Default test" finished-at="2023-05-22T16:24:26 IST" duration-ms="73">
+>>>>>>> branch 'master' of https://github.com/ManjuKuppur/Demo-MK.git
       <class name="MevenDemo.Sample">
+<<<<<<< HEAD
         <test-method signature="SampleDemo()[pri:0, instance:MevenDemo.Sample@48ae9b55]" started-at="2023-05-22T16:03:17 IST" name="SampleDemo" finished-at="2023-05-22T16:03:17 IST" duration-ms="25" status="PASS">
+=======
+        <test-method signature="SampleDemo()[pri:0, instance:MevenDemo.Sample@48ae9b55]" started-at="2023-05-22T16:24:26 IST" name="SampleDemo" finished-at="2023-05-22T16:24:26 IST" duration-ms="15" status="PASS">
+>>>>>>> branch 'master' of https://github.com/ManjuKuppur/Demo-MK.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SampleDemo -->
